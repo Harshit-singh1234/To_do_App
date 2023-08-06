@@ -1,6 +1,6 @@
 # todo_appp_project
 
-##Introduction
+#Introduction
 I've always used to-do lists, and since I didn't knew what to do as my first independent Dart/Flutter project, I've chosen to create my own to-do list app, so, here it is. It's very simple, but it helped me to understand and put into practice a lot of things, that before this project, I've had only learned thorugh theory or coding along with courses.
 
 This project is a starting point for a Flutter application.
