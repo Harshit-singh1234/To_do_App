@@ -6,6 +6,7 @@
 own to-do list app, so, here it is. It's very simple, but it helped me to understand and put into practice a lot of things, that before this project, I've had only learned thorugh theory or coding along with courses.
  
   <h1>Features</h1>
+  
   - Users can create their own tasks by clicking on the '+' buttons.
  
   - You can mark a task as done by cliking on it (check it).
